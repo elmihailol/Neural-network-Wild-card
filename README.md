@@ -6,7 +6,7 @@ WildCard is a libraly to predict time series based data via reccurent neural net
 WildCardLib.py contains code example 
 
 # Installation
-Copy WildCardLib.py to project folder, than type\n
+Copy WildCardLib.py to project folder, than type <br>
 import WildCardLib 
 
 
